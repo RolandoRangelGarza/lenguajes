@@ -20,6 +20,9 @@ h3{
     color: rgb(51, 0, 255);
   }
 
+address{
+  text-align: center;
+}
 .centrarImg {
   display: block;
   margin-left: auto;
