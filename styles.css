@@ -22,7 +22,8 @@ h3{
 
 blockquote{
   text-align: center;
-  font-family: cursive;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: dashed
 }
 address{
   text-align: center;
