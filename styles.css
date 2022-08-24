@@ -20,6 +20,10 @@ h3{
     color: rgb(51, 0, 255);
   }
 
+blockquote{
+  text-align: center;
+  font-family: cursive;
+}
 address{
   text-align: center;
 }
