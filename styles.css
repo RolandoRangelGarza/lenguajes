@@ -38,6 +38,9 @@ footer{
   font-family: 'Times New Roman', Times, serif;
 }
 
+figure {
+  text-align: center;
+}
 .centrarImg {
   display: block;
   margin-left: auto;
