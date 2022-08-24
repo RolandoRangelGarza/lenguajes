@@ -29,6 +29,9 @@ footer{
   font-family: 'Times New Roman', Times, serif;
 }
 
+nav{
+  text-align: center;
+}
 .centrarImg {
   display: block;
   margin-left: auto;
