@@ -23,6 +23,12 @@ h3{
 address{
   text-align: center;
 }
+
+footer{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .centrarImg {
   display: block;
   margin-left: auto;
